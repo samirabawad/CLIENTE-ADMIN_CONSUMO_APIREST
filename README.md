@@ -83,6 +83,9 @@ Permitir a los usuarios gestionar su consumo de energía eléctrica de manera ef
 - PostgreSQL
 - Spring Boot
 - React Native
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b93c55d0-290b-46eb-a0d4-4328e1e473a7" alt="Tecnologias" width="500">
+</p>
 
 ---
 
