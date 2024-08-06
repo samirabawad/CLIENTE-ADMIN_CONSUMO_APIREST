@@ -114,3 +114,9 @@ Permitir a los usuarios gestionar su consumo de energía eléctrica de manera ef
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d86503bd-8dbf-4f47-aff8-0f850f325a7e" alt="Demostración" width="500">
 </p>
+
+---
+
+## Video de Demostración
+
+[Ver video de demostración en YouTube](https://www.youtube.com/watch?v=3jYk5SWvMkU&ab_channel=MilaData)
