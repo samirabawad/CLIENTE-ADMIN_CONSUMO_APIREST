@@ -97,22 +97,7 @@ Permitir a los usuarios gestionar su consumo de energía eléctrica de manera ef
 ## Demostración del Resultado del Proyecto
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a9510b8-3d56-40f7-a43f-31fcea4ef7a9" alt="Demostración" width="500">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a14fb5e5-c5bc-40c3-864d-212fe122cf8c" alt="Demostración" width="500">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/05350a78-d487-49b0-9675-c51af3e0be4c" alt="Demostración" width="500">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c1aa3371-1ef6-4757-a92a-8d3735012524" alt="Demostración" width="500">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f44e320e-94b8-4cbf-a0de-a6567c73ad90" alt="Demostración" width="500">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d86503bd-8dbf-4f47-aff8-0f850f325a7e" alt="Demostración" width="500">
+  <img src="https://github.com/user-attachments/assets/866899f5-5af3-461c-bfc4-351e1ef01ccf" alt="Demostración" width="500">
 </p>
 
 ---
