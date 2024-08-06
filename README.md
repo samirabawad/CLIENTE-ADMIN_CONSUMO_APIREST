@@ -40,4 +40,12 @@ Diagrama de arquitectura:
 ![image](https://github.com/user-attachments/assets/fd20cc1d-75b9-4dbe-b0d1-f5754467a42e)
 
 Demostración del resultado del proyecto:
+![image](https://github.com/user-attachments/assets/2a9510b8-3d56-40f7-a43f-31fcea4ef7a9)
+![image](https://github.com/user-attachments/assets/a14fb5e5-c5bc-40c3-864d-212fe122cf8c)
+![image](https://github.com/user-attachments/assets/05350a78-d487-49b0-9675-c51af3e0be4c)
+![image](https://github.com/user-attachments/assets/c1aa3371-1ef6-4757-a92a-8d3735012524)
+![image](https://github.com/user-attachments/assets/f44e320e-94b8-4cbf-a0de-a6567c73ad90)
+![image](https://github.com/user-attachments/assets/d86503bd-8dbf-4f47-aff8-0f850f325a7e)
+
+
 
